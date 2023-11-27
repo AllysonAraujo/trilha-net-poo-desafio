@@ -20,3 +20,8 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Solução implementada
+1. O telefone tem como parâmetros: Número: Modelo, IMEI, e Memória de Armazenamento.
+2. O telefone (Nokia) realiza uma ligação para o telefone iPhone.
+3. O smartphone também instala um aplicativo em cada dispositivo. Os aplicativos são distintos, pois possuem lojas de aplicativos e sistema operacional diferente.
